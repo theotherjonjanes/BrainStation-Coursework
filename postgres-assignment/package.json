@@ -1,0 +1,19 @@
+{
+  "name": "postgres_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bookshelf": "^0.10.4",
+    "express": "^4.15.4",
+    "knex": "^0.13.0",
+    "pg": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
